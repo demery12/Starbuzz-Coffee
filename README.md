@@ -8,3 +8,5 @@ Espresso $1.99
 Dark Roast Coffee, Mocha, Mocha, Whip $1.49
 House Blend Coffee, Soy, Mocha, Whip $1.34
 ```
+
+This chapter also has had me implement a decorator for java.io.InputStream.
